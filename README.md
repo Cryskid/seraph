@@ -1,5 +1,5 @@
 # seraphavery
-discord seraph tools / avery nuker
+discord seraph tools 
 
 seraph multi tools and avery nuker open source
 
